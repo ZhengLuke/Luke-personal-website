@@ -1,1 +1,1 @@
-## This is the file with the main functions
+## This is the file with the main functions for the website backend
